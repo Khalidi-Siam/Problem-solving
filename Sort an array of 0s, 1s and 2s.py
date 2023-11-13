@@ -1,4 +1,4 @@
-# https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+# https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
 class Solution:
     def sort012(self,arr,n):
         # code here
